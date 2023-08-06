@@ -17,3 +17,8 @@ header.logo{
 header ul{
     float: right;
 }
+
+header.menu-toggle{
+    display: none;
+
+}
