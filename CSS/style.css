@@ -1,5 +1,19 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    
+}
 header {
     background: rgb(186, 186, 237);
     height: 66px;
 
+}
+
+header.logo{
+    float: left;
+    
+}
+
+header ul{
+    float: right;
 }
